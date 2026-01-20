@@ -1,0 +1,5 @@
+python-pytokens source: file-without-copyright-information
+python-pytokens source: no-debian-changes
+python-pytokens source: source-contains-prebuilt-windows-binary
+python-pytokens source: source-is-missing
+python-pytokens source: source-package-encodes-python-version
